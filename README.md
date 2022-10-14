@@ -5,4 +5,5 @@
 ### This project took around 8 hours to complete.
 ### Project Link - [LINK](https://playful-sundae-f878ca.netlify.app/)
 ### Scrrenshot - 
-![project-14](https://user-images.githubusercontent.com/113286299/195873763-3626fa26-6330-4a03-92f3-43d782affb72.png)
+![(![PROJ_14](https://user-images.githubusercontent.com/113286299/195874406-34cc178f-0a4a-4036-ab1f-72e485db116b.png)
+)
